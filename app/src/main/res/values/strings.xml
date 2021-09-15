@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lektion8MVVM</string>
+    <string name="textAuthor">Author</string>
+    <string name="textQuote">Quote</string>
+    <string name="nope">Add/nQuote</string>
+    <string name="textAddQuote">Add\nQuote</string>
+</resources>
